@@ -1,6 +1,6 @@
 <img width="2500" height="330" alt="MOONSYNCER" src="https://github.com/user-attachments/assets/5e474ed8-eec4-477b-a03d-d12a5a484031" />
 
-# ✨ MOONSYNCER for VIBESYNC
+# ✨ MOONSYNCER for VIBESYNC (waiting for translation to english)
 
 Programm that allows you to make MOONSYNC
 

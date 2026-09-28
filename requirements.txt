@@ -1,0 +1,9 @@
+# VIBE-SYNC Packer (MOONSYNCER) — Python 3.10+
+# Install:  pip install -r requirements.txt
+
+pygame>=2.5      # window, UI, audio preview
+numpy>=1.24      # chroma_noise glitch effect
+Pillow>=10.0     # window icon, light logo, palette extraction from the cover
+
+# Also needed, but not installable via pip (ships with Python):
+#   tkinter — native file dialogs. On Linux: sudo apt install python3-tk
